@@ -33,13 +33,13 @@ function createHeart() {
 
 /* --- Floating photos --- */
 const photoUrls = [
-    "./assets/images/anh_1.jpg",
-    "./assets/images/anh_2.jpg",
-    "./assets/images/anh_3.jpg",
-    "./assets/images/anh_4.jpg",
-    "./assets/images/anh_5.jpg",
-    "./assets/images/anh_6.jpg",
-    "./assets/images/anh_7.jpg",
+    "assets/images/anh_1.jpg",
+    "assets/images/anh_2.jpg",
+    "assets/images/anh_3.jpg",
+    "assets/images/anh_4.jpg",
+    "assets/images/anh_5.jpg",
+    "assets/images/anh_6.jpg",
+    "assets/images/anh_7.jpg",
 ];
 
 function createFloatingPhoto() {
